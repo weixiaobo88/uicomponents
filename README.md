@@ -8,3 +8,7 @@ Three parts to finish each component:
 ##Components
 - Pagination
 
+
+##Reference
+http://ui-patterns.com/patterns
+
