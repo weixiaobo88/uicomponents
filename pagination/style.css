@@ -1,0 +1,25 @@
+.pagination ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.item {
+    display: inline-block;
+    padding: 15px 10px;
+    background: #6EB6E6;
+    border-radius: 3px;
+    color: #ffffff;
+    font-family: "Helvetic Neue", Helvetica, Arial;
+    font-size: 14px;
+}
+
+.item:hover {
+    background: #3C8CC3;
+    cursor: pointer;
+}
+
+.item a {
+    text-decoration: none;
+    color: #ffffff;
+}
